@@ -69,4 +69,5 @@ PASS  src/tests/allFunctions.test.js
 Test Suites: 1 passed, 1 total
 Tests:       12 passed, 12 total
 ```
-<img width="1600" height="900" alt="{A732218B-F299-476F-A68A-1A36804FDF9F}" src="https://github.com/user-attachments/assets/01efe45a-2696-41a0-9edd-16b0fbc333eb" />
+
+<img width="862" height="376" alt="image" src="https://github.com/user-attachments/assets/4123b022-9e96-4702-8028-73485a46a257" />
